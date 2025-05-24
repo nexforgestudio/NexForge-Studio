@@ -206,7 +206,7 @@ const serviceCategories: ServiceCategory[] = [
         id: 'social-basic',
         title: 'Social Basic',
         description: 'Essential social media management',
-        price: 14999,
+        price: 9999,
         features: [
           { text: 'Strategy development', included: true },
           { text: 'Content creation', included: true },
@@ -220,7 +220,7 @@ const serviceCategories: ServiceCategory[] = [
         id: 'social-premium',
         title: 'Social Premium',
         description: 'Complete social media solution',
-        price: 24999,
+        price: 34999,
         popular: true,
         features: [
           { text: 'Strategy development', included: true },
